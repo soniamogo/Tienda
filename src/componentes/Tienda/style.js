@@ -7,8 +7,8 @@ export const Catalogo = styled(FlexRowCentrado)`
 `;
 
 export const CervezaWrapper = styled(FlexColumnCentrado)`
-    height:220px;
-    width:120px;
+    height:270px;
+    width:130px;
     margin:10px;
     border:1px solid white;
     color:black;
